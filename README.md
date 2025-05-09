@@ -71,6 +71,32 @@ Margins, paddings, and borders.
         <h1>Welcome to My Website</h1>
     </header>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Improved Design Example</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Stylish Website</h1>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>About This Page</h2>
+            <p>This page demonstrates improvements in readability and aesthetics with modern design principles.</p>
+        </section>
+
+        <section class="features">
+            <h2>Features</h2>
+            <ul>
+                <li>Enhanced typography and spacing for better readability.</li>
+                <li>Modern color scheme with good contrast for visual appeal.</li>
+                <li>Responsive design for mob
+
     <main>
         <section class="intro">
             <h2>About This Page</h2>
